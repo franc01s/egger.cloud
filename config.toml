@@ -1,0 +1,4 @@
+baseURL = 'https://egger.cloud/'
+languageCode = 'en-us'
+title = 'François Egger'
+theme = "papermod"
