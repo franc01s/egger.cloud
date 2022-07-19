@@ -1,4 +1,4 @@
-baseURL = 'https://egger.cloud/'
+baseURL = 'https://www.egger.cloud/'
 languageCode = 'en-us'
 title = 'François Egger'
 theme = "papermod"
