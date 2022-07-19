@@ -14,7 +14,7 @@ params:
     github: 'franc01s'
     avatar: 'francois@egger.cloud'
     name: 'François'
-    bio: 'Blog site, don''t be afraid that talk about many subjects I found cool in the moment'
+    bio: 'Don''t be afraid that talk about many subjects I found cool at this moment'
     rss: true
 
 menu:
