@@ -1,9 +1,8 @@
 baseURL: "https://www.egger.cloud"
 title: 'Blog'
-
 paginate: 3
 theme: papermod
-DefaultContentLanguage: "en"
+DefaultContentLanguage: "fr"
 enableInlineShortcodes: true
 
 minify:

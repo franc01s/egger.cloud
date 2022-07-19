@@ -1,5 +1,5 @@
 ---
-author: "François Eggerrr"
+author: "François Egger"
 title: "Azerothcore"
 date: "2022-07-19"
 description: "Azerothcore installation in docker mode"
