@@ -6,7 +6,7 @@ description: "My actual Work company"
 tags: ["work"]
 categories: ["themes", "syntax"]
 aliases: ["migrate-from-jekyl"]
-ShowToc: false
-TocOpen: true
+ShowToc: true
+TocOpen: false
 ---
 Ducksify
