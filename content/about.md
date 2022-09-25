@@ -6,4 +6,4 @@ aliases = ["about-us", "about-hugo", "contact"]
 author = "François Egger"
 +++
 
-This site to give a life to egger.cloud, with hugo car ça claque
+This site to give a life to egger.cloud, with hugo.
